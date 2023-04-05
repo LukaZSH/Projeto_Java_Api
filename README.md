@@ -100,7 +100,7 @@ Mesmo que o Fly.io tenha dado Deploy na imagem docker, ocorre algum erro de requ
 
 
 ## :heavy_check_mark: Técnicas e Tecnologias utilizadas no projeto
-`Visual Studio Code` - `Paradigma de Orientação a Objeto` - `Java 20` - `Git` - `Spring` -  `MongoDB` - `Docker` - `Dockerhub` - `Fly.io` - `Windows Powershell` - `Postman` - `Maeven`
+`Visual Studio Code` - `Paradigma de Orientação a Objeto` - `Java 20` - `Git` - `Spring` -  `MongoDB` - `Docker` - `Dockerhub` - `Fly.io` - `Windows Powershell` - `Postman` - `Maven`
 
 
 
