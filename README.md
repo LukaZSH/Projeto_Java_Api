@@ -53,7 +53,7 @@ Para tal função, utilizamos o MongoDB, que é um banco de dados do tipo NoSQL 
 
 - Progresso: 100%
 
-**Código subindo com o Sping:**
+**Código subindo com o Spring:**
 ![image](https://user-images.githubusercontent.com/49702498/229951720-a1746913-7893-472a-a4cb-fdf1d3fc0097.png)
 
 
