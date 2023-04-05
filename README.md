@@ -106,3 +106,8 @@ Mesmo que o Fly.io tenha dado Deploy na imagem docker, ocorre algum erro de requ
 ## :checkered_flag: Considerações finais
 Após ter passado 1 semana trabalhando e aprendendo a desenvolver esse projeto junto da linguagem Java e todo seu ecossistema, há muitas coisas no projeto que tenho em mente para que possam ser aperfeiçoadas e implementadas futuramente para melhorar sua coerência e seu propósito junto de todas as suas funcionalidades.
 - :construction: :warning: Progresso total do projeto: 80%
+
+
+
+![image](https://user-images.githubusercontent.com/49702498/229973537-15b16d72-7bb1-4f6f-8256-48d92d5c70a7.png)
+
