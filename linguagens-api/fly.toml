@@ -1,0 +1,29 @@
+# fly.toml file generated for linguagens-de-programacao-teste on 2023-04-04T12:58:43-03:00
+
+app = "linguagens-de-programacao-teste"
+kill_signal = "SIGINT"
+kill_timeout = 5
+mounts = []
+primary_region = "gru"
+processes = []
+
+[build]
+  image = "jacquelineoliveira/linguagensapi:latest"
+
+[[services]]
+  internal_port = 8080
+  processes = ["app"]
+  protocol = "tcp"
+  [services.concurrency]
+    hard_limit = 25
+    soft_limit = 20
+    type = "connections"
+
+  [[services.ports]]
+    force_https = true
+    handlers = ["http"]
+    port = 80
+
+  [[services.ports]]
+    handlers = ["tls", "http"]
+    port = 443
