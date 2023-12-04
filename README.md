@@ -1,4 +1,4 @@
-## Projeto - Imersão Java Alura
+## Projeto - Imersão Java
 
 Nesta 1º parte, do projeto que está em desenvolvimento, estamos conhecendo todo o ecossistema do JAVA e ao memso tempo aplicando os conhecimentos com API's e outras tecnologias.
 A API utilizada nesta 1º parte do projeto fôra fornecida através do site do IMDB, que serve para mostrar e listar de diversas formas em geral, filmes e séries.
